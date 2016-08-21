@@ -1,0 +1,8 @@
+{
+    "type": "record",
+    "name": "tweet",
+    "fields": [
+        { "name": "username", "type": "string" },
+        { "name": "tweet", "type": "string" }
+    ]
+}
